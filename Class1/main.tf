@@ -34,4 +34,3 @@ resource "aws_iam_user" "lb4" {
 resource "aws_iam_user" "lb5" {
   name = "april"
 }
-as.rmbkva@gmail.com"
